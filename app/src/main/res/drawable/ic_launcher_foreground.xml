@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone do app: símbolo da Fontenele Publicações -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:scaleX="0.049914" android:scaleY="0.049914" android:translateX="24.9002" android:translateY="25.9733">
+        <path android:fillColor="#FF272F42" android:pathData="M562,1 L2,561 L562,1122 L562,900 L422,759 L562,617 L562,395 L310,647 L225,562 L562,224 Z" />
+        <path android:fillColor="#FFF5BA1A" android:pathData="M603,0 L603,224 L940,561 L855,646 L603,394 L603,617 L743,758 L603,900 L603,1123 L1164,562 Z" />
+    </group>
+</vector>

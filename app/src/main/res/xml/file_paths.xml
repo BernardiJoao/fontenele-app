@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Pasta interna onde os PDFs são gerados (context.filesDir/pdfs) -->
+    <files-path name="pdfs" path="pdfs/" />
+    <!-- Fotos dos pedidos prontos (context.filesDir/fotos), entregues ao app de câmera -->
+    <files-path name="fotos" path="fotos/" />
+</paths>
