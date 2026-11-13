@@ -24,8 +24,8 @@ jobs:
           distribution: temurin
           java-version: "17"
 
-      - name: Instalar o Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Aceitar licenças do Android SDK
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses || true
 
       - name: Gerar o APK
         env:
